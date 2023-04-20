@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Hulgolli/Tele/master/image/134ab11c03c5b37fc4c5d656905036bb.jpg" alt="ALPHA BOT" height="90"/>
+<img src="https://raw.githubusercontent.com/Hulgolli/Tele/master/image/c522077638fd908e964adf9ac532ef86.jpg" alt="ALPHA BOT" height="90"/>
 </p>
 
 <p align="center">
