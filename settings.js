@@ -11,13 +11,13 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Izhu4NVKrzYzqbD', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'kjINmTF2nrtRZ6R', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "6122822065:AAF_1sDArRvhMXSUz_NPMQ6uU-0-Cx2CvY8" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "6028823412:AAE8Y77z_Wztg6tHmS6zn3ND71Dl6U8vmAo" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "ྂ✈ᵇᵒᵗ𝒈𝒊𝒓𝒍✔-Mdོ" //your bot name
 global.OWNER_NAME = "hallo_monyet" //your name
 global.OWNER_NUMBER = "16143244922" //your telegram number
